@@ -1,0 +1,23 @@
+Font Name: VI University (Un____11.ttf)
+Font Author: Da(.ng Thanh Nga^n <dang@mala.proteus.qc.ca>
+
+
+====================================================================
+NOTICE OF COPYRIGHT
+====================================================================
+The fonts are copyrighted by the appropriate artists of the VN-Fonts
+Team.  All rights reserved.
+
+The fonts are released to general public domain, but all rights are 
+reserved.  You may use, copy, distribute these fonts in any form, as 
+long as you do not charge a fee for doing so, and included this 
+copyright notice.  No modification allowed, unless permission has 
+been explicitly given by the copyright owners.
+
+The fonts are provided as is, without any express or implied warranty.
+
+====================================================================
+For more information, you can contact the individual font authors, 
+or the vn-fonts electronic mailing list:
+
+vn-fonts@cccogp.com
