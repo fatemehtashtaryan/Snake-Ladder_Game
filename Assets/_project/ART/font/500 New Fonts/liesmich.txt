@@ -1,0 +1,27 @@
+Zur installation von TrueTypeFonts unter Windows ´95
+
+Entpacken Sie die *.zip Datei in ein temporäres Verzeichnis oder in 
+einen extra hierfür angelegten Ordner.
+
+Über "Systemsteuerung" gelangen Sie zu dem Ordner "Schriftarten".
+Öffnen Sie diesen. Unter "Datei" gibt es den Menüpunkt "Neue Schriftart
+installieren". klicken Sie darauf.
+Es öffnet sich eine Dialogbox in der Sie das Laufwerk und den Ordner
+in den Sie die Schriftart entpackt haben auswählen müssen.
+
+Im oberen Fenster erscheinen nun alle Schriftarten, die sich in diesem
+Ordner befinden. Klicken Sie auf alle markieren oder wählen Sie die
+zu installierende Schriftart direkt im Fenster aus.
+Klicken Sie nach erfolgter Auswahl auf "OK".
+
+Die ausgewählte(n) Schriftart(en) ist/sind nun installiert.
+
+Zum entfernen von Schriften öffnen Sie den Ordner "Schriftarten",
+markieren Sie die zu löschende Schriftart und wählen unter "Datei"
+"Löschen". Die ausgewählte Schrift ist nun gelöscht.
+
+Ich wünsche Ihnen viel Spaß mit Ihrer neuen TrueType Schriftart.
+
+Mit freundlichen Grüßen
+
+Matthias Ondra
